@@ -1,3 +1,3 @@
 # lojavirtual
 
-texto alterado
+texto alterado, via github web.
